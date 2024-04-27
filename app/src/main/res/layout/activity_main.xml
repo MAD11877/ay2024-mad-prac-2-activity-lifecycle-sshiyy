@@ -104,7 +104,7 @@
         app:layout_constraintHorizontal_chainStyle="spread"
         app:layout_constraintTop_toBottomOf="@id/textview3"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@id/button1" />
+        app:layout_constraintStart_toEndOf="@id/button1"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
